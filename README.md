@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=AI%2FML+Engineer+%7C+Researcher;NLP+%7C+Agentic+AI+%7C+LLMs;Turning+research+into+production+systems" alt="Typing SVG" />
-
 # Mohit Madan
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Mmadan128&color=00ff88&style=flat-square&label=PROFILE+VIEWS)](https://github.com/Mmadan128)
@@ -100,21 +98,7 @@ infrastructure/
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
----
 
-```bash
-$ git log --oneline --graph
-```
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Mmadan128&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=c9d1d9" height="165">
-&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Mmadan128&hide_border=true&background=0d1117&ring=00ff88&fire=00ff88&currStreakLabel=00ff88" height="165">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mmadan128&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=c9d1d9">
-
-</div>
 
 ---
 
@@ -123,8 +107,17 @@ $ cat contact.cfg
 ```
 
 ```ini
-[linkedin]  url  = https://linkedin.com/in/mohit-madan-b8447a313
+[linkedin]  url  = linkedin.com/in/mohit-madan-b8447a313
 [email]     addr = mohitmadan128@gmail.com
-[github]    user = Mmadan128
+[github]    user = github.com/Mmadan128
 [discord]   user = borger0832
 ```
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohit-madan-b8447a313)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mohitmadan128@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Mmadan128)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discordapp.com/users/borger0832)
+
+</div>
